@@ -127,7 +127,7 @@ const Menu = {
 };
 const INDIVIDUAL_ITEMS = [
 	"Murder Meal", "Coke", "Lemonade", "Shot OfVodka", "Glass OfWhiskey", "Root BeerFloat", "Chocolate Shake", "Explosive Shake", "Espresso",  "Green Tea", "Mcdougle Stout",
-	"Ham Sandwich", "Turkey Sandwich", "Beef Sandwich", "BLT Sandwich", "Crip Sandwich", "Chicken PotPie", "Chicken FriedSteak", "Salisbury Steak",  "Bacon Egg Biscut", "Sloppy Joe", "Chips",  "Chip Butty",
+	"Ham Sandwich", "Turkey Sandwich", "Beef Sandwich", "BLT Sandwich", "Crip Sandwich", "Chicken PotPie", "Chicken FriedSteak", "Salisbury Steak",  "Bacon EggBiscut", "Sloppy Joe", "Chips",  "Chip Butty",
 ];
 
 const buttons = {
