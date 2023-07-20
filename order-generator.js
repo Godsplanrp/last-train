@@ -41,7 +41,7 @@ const Menu = {
 		price: 50,
 		items: ["Lemonade"],
 	},
-	"Shot Of Vodka": {
+	"Shot OfVodka": {
 		price: 50,
 		items: ["Shot OfVodka"],
 	},
