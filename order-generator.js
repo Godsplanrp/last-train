@@ -45,11 +45,11 @@ const Menu = {
 		price: 50,
 		items: ["Shot OfVodka"],
 	},
-	"Glass Of Whiskey": {
+	"Glass OfWhiskey": {
 		price: 50,
 		items: ["Glass OfWhiskey"],
 	},
-	"Root Beer Float": {
+	"Root BeerFloat": {
 		price: 125,
 		items: ["Root BeerFloat"],
 	},
@@ -89,11 +89,11 @@ const Menu = {
 		price: 100,
 		items: ["Crip Sandwich"]
 	},
-	"Chicken Pot Pie": {
+	"Chicken PotPie": {
 		price: 200,
 		items: ["Chicken Pot Pie"]
 	},
-	"Chicken Fried Steak": {
+	"Chicken FriedSteak": {
 		price: 200,
 		items: ["Chicken FriedSteak"]
 	},
@@ -105,7 +105,7 @@ const Menu = {
 		price: 200,
 		items: ["Sloppy Joe"],
 	},
-	"Bacon Egg Biscut": {
+	"Bacon EggBiscut": {
 		price: 200,
 		items: ["Bacon EggBiscut"]
 	},
