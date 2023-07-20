@@ -17,13 +17,6 @@ const Menu = {
 	"Burger Meals:": {
 		header: true,
 	},
-	"Murder Meal": {
-		max: 4,
-		fileRenameException: true,
-		price: 1000,
-		noDiscount: true,
-		items: ["Murder Meal"],
-	},
 	"Heartstopper Meal": {
 		price: 350,
 		items: ["Heartstopper", "Fries", "Soda"],
@@ -48,69 +41,89 @@ const Menu = {
 	"Individual Items:": {
 		header: true,
 	},
-	"Heartstopper": {
-		price: 300,
-		items: ["Heartstopper"],
-	},
-	"The Prickly": {
-		price: 200,
-		items: ["The Prickly"],
-	},
-	"Double Shot": {
-		price: 220,
-		items: ["Double Shot"],
-	},
-	"Taco": {
-		price: 120,
-		items: ["Taco"],
-	},
-	"Bleeder": {
-		price: 230,
-		items: ["Bleeder"],
-	},
-	"Simply Burger": {
-		price: 150,
-		items: ["Simply Burger"],
-	},
-	"Chicken Wrap": {
-		price: 150,
-		items: ["Chicken Wrap"],
-	},
-	"Goat Cheese Wrap": {
-		price: 150,
-		items: ["Goat Cheese Wrap"],
-	},
-	"Fries": {
+	"Coke": {
 		price: 50,
-		items: ["Fries"],
+		items: ["Coke"],
 	},
-	"Water": {
-		price: 5,
-		items: ["Water"],
+	"Lemonade": {
+		price: 50,
+		items: ["Lemonade"],
 	},
-	"Soda": {
-		price: 25,
-		items: ["Soda"]
+	"Shot Of Vodka": {
+		price: 50,
+		items: ["Shot Of Vodka"],
 	},
-	"Mocha Shake": {
+	"Glass Of Whiskey": {
+		price: 50,
+		items: ["Glass Of Whiskey"],
+	},
+	"Root Beer Float": {
+		price: 125,
+		items: ["Root Beer Float"],
+	},
+	"Chocolate Shake": {
 		price: 150,
-		items: ["Mocha Shake"],
+		items: ["Chocolate Shake"],
 	},
-	"Meteorite Ice Cream": {
-		price: 350,
-		items: ["Meteorite Ice Cream"],
+	"Explosive Shake": {
+		price: 150,
+		items: ["Explosive Shake"],
 	},
-	"Orangotang Ice Cream": {
-		price: 350,
-		items: ["Orangotang Ice Cream"]
+	"Espresso": {
+		price: 100,
+		items: ["Espresso"],
 	},
-	"BS Bag": {
-		price: 15,
-		items: ["BS Bag"]
+	"Green Tea": {
+		price: 50,
+		items: ["Green Tea"],
 	},
-	"Delivery Fee": {
-		price: 35,
-		items: ["Delivery Fee"]
+	"Ham Sandwich": {
+		price: 100,
+		items: ["Ham Sandwich"],
+	},
+	"Turkey Sandwich": {
+		price: 100,
+		items: ["Turkey Sandwich"]
+	},
+	"Beef Sandwich": {
+		price: 100,
+		items: ["Beef Sandwich"],
+	},
+	"BLT Sandwich": {
+		price: 100,
+		items: ["BLT Sandwich"],
+	},
+	"Crip Sandwich": {
+		price: 100,
+		items: ["Crip Sandwich"]
+	},
+	"Chicken Pot Pie": {
+		price: 200,
+		items: ["Chicken Pot Pie"]
+	},
+	"Chicken Fried Steak": {
+		price: 200,
+		items: ["Chicken Fried Steak"]
+	},
+	"Salisbury Steak": {
+		price: 200,
+		items: ["Salisbury Steak"],
+	},
+	"Sloppy Joe": {
+		price: 200,
+		items: ["Sloppy Joe"],
+	},
+	"Bacon Egg Biscut": {
+		price: 200,
+		items: ["Bacon Egg Biscut"]
+	},
+	"Chips": {
+		price: 100,
+		items: ["Chips"]
+	},
+	"Chip Butty": {
+		price: 150,
+		items: ["Chip Butty"]
 	},
 //"10 Pack BurgerBits": {
  //  price: 1375,
