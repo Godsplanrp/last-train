@@ -17,25 +17,17 @@ const Menu = {
 	"Burger Meals:": {
 		header: true,
 	},
-	"Heartstopper Meal": {
-		price: 350,
-		items: ["Heartstopper", "Fries", "Soda"],
+	"Sloppy Joe Meal": {
+		price: 300,
+		items: ["Sloppy Joe", "Chips", "Root Beer Float"],
 	},
-	"Double Shot Meal": {
+	"TriPod Teddie Meal": {
 		price:300,
-		items: ["Double Shot", "Fries", "Soda"],
+		items: ["Chicken Pot Pie", "Chips", "Chocolate Shake"],
 	},
-	"Simply Burger Meal": {
-		price: 250,
-		items: ["Simply Burger", "Fries", "Soda"],
-	},
-	"Bleeder Meal": {
-		price: 285,
-		items: ["Bleeder", "Fries", "Soda"],
-	},
-	"The Prickly Meal": {
-		price: 275,
-		items: ["The Prickly", "Fries", "Soda"],
+	"Zach A Nator Meal": {
+		price: 300,
+		items: ["Bacon Egg Biscut", "Chips", "Espresso"],
 	},
 	// Individual Items:
 	"Individual Items:": {
@@ -157,9 +149,9 @@ const buttons = {
 };
 
 const discounts = {
-	"half_off": {
-		percent: .50,
-		desc: '50% Discount (BS Employees...)',
+	"25pcnt_off": {
+		percent: .25,
+		desc: '25% Discount (PD,DOJ,Mechs,EMS...)',
 	},
 	"5pcnt_off": {
 		percent: .05,
