@@ -13,58 +13,6 @@ const Menu = {
 	"Wrap Combos:": {
 		header: true,
 	},
-	"Chicken Wrap Combo": {
-		price: 200,
-		items: ["Chicken Wrap", "Fries", "Soda"],
-	},
-	"Goat Cheese Wrap Combo": {
-		price: 200,
-		items: ["Goat Cheese Wrap", "Fries", "Soda"],
-	},
-	// Variable combos:
-	"Taco Lovers": {
-		price: 600,
-		emoji: '🍬',
-		items: ["Soda", "Soda", "Soda", "Fries", "Fries", "Taco", "Taco", "Taco", "Taco", "Taco"],
-	},
-	"Sweet Tooth": {
-		price: 650,
-		emoji: '🧂',
-		items: ["Orangotang Ice Cream", "Meteorite Ice Cream", "Mocha Shake"],
-	},
-	"Salty Seaman": {
-		price: 60,
-		emoji: '🦷',
-		items: ["Fries", "Fries", "Soda", "Soda"],
-	},
-	"Burgerhead Special": {
-		price: 1435,
-		emoji: '🍔',
-		items: ["Heartstopper", "Heartstopper", "Fries", "Fries", "Soda", "Soda", "BS Bag"],
-	},
-	"Pimp Daddy": {
-		price: 800,
-		emoji: '🍔',
-		items: ["The Prickly", "Chicken Wrap", "Fries", "Fries", "Soda", "Soda",  "Soda", "Soda", "Orangotang Ice Cream", "BS Bag"],
-	},
-	"Glory to the mymack": {
-		price: 2700,
-		noDiscount: true,
-		emoji: '👑',
-		items: ["Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Simply Burger", "Fries", "Fries", "Fries", "Fries", "Fries", "Fries", "Fries", "Fries", "Soda", "Soda", "Soda", "Soda", "Soda", "Soda", "Soda", "Soda", "Meteorite Ice Cream", "Meteorite Ice Cream", "BS Bag"],
-	},
-	"Workers Special (20)": {
-		price: 3000,
-		noDiscount: true,
-		emoji: '💲',
-		items: ["Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake"],
-	},
-	"Workers Special (50)": {
-		price: 7500,
-		noDiscount: true,
-		emoji: '💲',
-		items: ["Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake", "Mocha Shake"],
-	},
 	// Burger Meals:
 	"Burger Meals:": {
 		header: true,
@@ -173,8 +121,8 @@ const Menu = {
 //}
 };
 const INDIVIDUAL_ITEMS = [
-	"Murder Meal", "Heartstopper", "Double Shot", "Bleeder", "Water", "Simply Burger", "Chicken Wrap", "Goat Cheese Wrap", "The Prickly",
-	"Fries", "Soda", "Meteorite Ice Cream", "Orangotang Ice Cream", "Mocha Shake", "Delivery Fee", "Taco", "BS Bag",
+	"Murder Meal", "Coke", "Lemonade", "Shot Of Vodka", "Glass Of Whiskey", "Root Beer Float", "Chocolate Shake", "Explosive Shake", "Espresso",  "Green Tea", "Mcdougle Stout",
+	"Ham Sandwich", "Turkey Sandwich", "Beef Sandwich", "BLT Sandwich", "Crip Sandwich", "Chicken Pot Pie", "Chicken Fried Steak", "Salisbury Steak",  "Bacon Egg Biscut", "Sloppy Joe", "Chips",  "Chip Butty",
 ];
 
 const buttons = {
