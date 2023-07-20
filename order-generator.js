@@ -19,7 +19,7 @@ const Menu = {
 	},
 	"Sloppy Joe Meal": {
 		price: 300,
-		items: ["Sloppy Joe", "Chips", "Root Beer Float"],
+		items: ["Sloppy Joe", "Chips", "Root BeerFloat"],
 	},
 	"TriPod Teddie Meal": {
 		price:300,
@@ -27,7 +27,7 @@ const Menu = {
 	},
 	"Zach A Nator Meal": {
 		price: 300,
-		items: ["Bacon Egg Biscut", "Chips", "Espresso"],
+		items: ["Bacon EggBiscut", "Chips", "Espresso"],
 	},
 	// Individual Items:
 	"Individual Items:": {
@@ -43,15 +43,15 @@ const Menu = {
 	},
 	"Shot Of Vodka": {
 		price: 50,
-		items: ["Shot Of Vodka"],
+		items: ["Shot OfVodka"],
 	},
 	"Glass Of Whiskey": {
 		price: 50,
-		items: ["Glass Of Whiskey"],
+		items: ["Glass OfWhiskey"],
 	},
 	"Root Beer Float": {
 		price: 125,
-		items: ["Root Beer Float"],
+		items: ["Root BeerFloat"],
 	},
 	"Chocolate Shake": {
 		price: 150,
@@ -95,7 +95,7 @@ const Menu = {
 	},
 	"Chicken Fried Steak": {
 		price: 200,
-		items: ["Chicken Fried Steak"]
+		items: ["Chicken FriedSteak"]
 	},
 	"Salisbury Steak": {
 		price: 200,
@@ -107,7 +107,7 @@ const Menu = {
 	},
 	"Bacon Egg Biscut": {
 		price: 200,
-		items: ["Bacon Egg Biscut"]
+		items: ["Bacon EggBiscut"]
 	},
 	"Chips": {
 		price: 100,
@@ -126,8 +126,8 @@ const Menu = {
 //}
 };
 const INDIVIDUAL_ITEMS = [
-	"Murder Meal", "Coke", "Lemonade", "Shot Of Vodka", "Glass Of Whiskey", "Root Beer Float", "Chocolate Shake", "Explosive Shake", "Espresso",  "Green Tea", "Mcdougle Stout",
-	"Ham Sandwich", "Turkey Sandwich", "Beef Sandwich", "BLT Sandwich", "Crip Sandwich", "Chicken Pot Pie", "Chicken Fried Steak", "Salisbury Steak",  "Bacon Egg Biscut", "Sloppy Joe", "Chips",  "Chip Butty",
+	"Murder Meal", "Coke", "Lemonade", "Shot OfVodka", "Glass OfWhiskey", "Root BeerFloat", "Chocolate Shake", "Explosive Shake", "Espresso",  "Green Tea", "Mcdougle Stout",
+	"Ham Sandwich", "Turkey Sandwich", "Beef Sandwich", "BLT Sandwich", "Crip Sandwich", "Chicken PotPie", "Chicken FriedSteak", "Salisbury Steak",  "Bacon Egg Biscut", "Sloppy Joe", "Chips",  "Chip Butty",
 ];
 
 const buttons = {
