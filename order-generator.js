@@ -14,7 +14,7 @@ const Menu = {
 		header: true,
 	},
 	// Burger Meals:
-	"Burger Meals:": {
+	"Train Meals:": {
 		header: true,
 	},
 	"Sloppy Joe Meal": {
