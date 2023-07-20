@@ -21,11 +21,11 @@ const Menu = {
 		price: 300,
 		items: ["Sloppy Joe", "Chips", "Root BeerFloat"],
 	},
-	"TriPodTeddie Meal": {
+	"Chicken PotPie Meal": {
 		price:300,
-		items: ["Chicken Pot Pie", "Chips", "Chocolate Shake"],
+		items: ["Chicken PotPie", "Chips", "Chocolate Shake"],
 	},
-	"ZachANator Meal": {
+	"Bacon EggBiscut Meal": {
 		price: 300,
 		items: ["Bacon EggBiscut", "Chips", "Espresso"],
 	},
